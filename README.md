@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://imgbb.com/">
+  <a href="https://github.com/4fnanK/Burst-mp4-to-mp3">
     <img src="https://i.ibb.co/ZLMSQ5P/mp3-drawing.png" alt="mp3-drawing" border="0">
   </a>
 </p>
