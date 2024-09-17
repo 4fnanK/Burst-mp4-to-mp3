@@ -1,6 +1,6 @@
 <h1 align="center">Burst-mp4-to-mp3</h1>
 
-<p><strong>burst-mp4-to-mp3</strong> is a Python-based GUI tool designed for fast and efficient conversion of multiple MP4 files to MP3 format. With this tool, you can quickly and easily convert batches of MP4 files into MP3s, saving time and effort.</p>
+<p><strong>Burst-mp4-to-mp3</strong> is a Python-based GUI tool designed for fast and efficient conversion of multiple MP4 files to MP3 format. With this tool, you can quickly and easily convert batches of MP4 files into MP3s, saving time and effort.</p>
 
 <h2>Features</h2>
 <ul>
