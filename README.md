@@ -16,7 +16,7 @@
     <pre><code>git clone https://github.com/yourusername/Burst-mp4-to-mp3.git</code></pre>
   </li>
   <li><strong>Navigate to the Project Directory</strong>:
-    <pre><code>cd Burst-mp4-to-mp3</code></pre>
+    <pre><code>cd mp3gui</code></pre>
   </li>
   <li><strong>Install Dependencies</strong>:
     <pre><code>pip install -r requirements.txt</code></pre>
@@ -26,7 +26,7 @@
 <h2>Usage</h2>
 <ol>
   <li><strong>Run the Application</strong>:
-    <pre><code>python mp4-to-mp3.py</code></pre>
+    <pre><code>python mp3gui.py</code></pre>
   </li>
   <li><strong>Select the Input and Output Folders</strong>:
     <ul>
