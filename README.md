@@ -57,4 +57,11 @@
   </li>
 </ol>
 
+<h2>Contact</h2>
+
+If you have any questions, suggestions, feel free to reach out to me at:
+    
+[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=Telegram&logoColor=white)](https://t.me/afnan007) [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:amanoythegreter232500@gmail.com)
+
+
 
