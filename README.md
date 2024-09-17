@@ -13,7 +13,7 @@
 <h2>Installation</h2>
 <ol>
   <li><strong>Clone the Repository</strong>:
-    <pre><code>git clone https://github.com/yourusername/Burst-mp4-to-mp3.git</code></pre>
+    <pre><code>git clone https://github.com/4fnanK/Burst-mp4-to-mp3.git </code></pre>
   </li>
   <li><strong>Navigate to the Project Directory</strong>:
     <pre><code>cd Burst-mp4-to-mp3</code></pre>
